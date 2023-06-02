@@ -1,3 +1,1 @@
-<<<<<<< HEAD:assets/use-dark.9f95bfe1.js
-=======
 import{a as e}from"./index.45611815.js";const u={dark:{type:Boolean,default:null}};function o(a,r){return e(()=>a.dark===null?r.dark.isActive:a.dark)}export{o as a,u};
